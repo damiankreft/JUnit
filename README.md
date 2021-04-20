@@ -1,1 +1,1 @@
-# JUnit - Simple tests in JUnit/zadania1-15/src/Lab2/
+# JUnit - Simple tests in ./zadania1-15/src/Lab2/
